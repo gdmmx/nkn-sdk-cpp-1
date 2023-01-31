@@ -3,7 +3,7 @@ NKN SDK for C/C++
 
 ## IMPORTANT !!!
 
-This is not the official actual versio.
+This is not the official actual version.
 
 The official actual version is currently cleaned up in a private repo, prior to going public.
 
